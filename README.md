@@ -3,11 +3,13 @@ One of the most used instruments in a microbiology laboratory is the microbiolog
 
 # Hardware
 The incubator is designed in Autodesk Fusion 360 which is free to use by hobbyist users, academics and small startups. The user is able to select parameters related to the incubator dimensions. The incubator is designed in such way that it allows fabrication by a laser cutter and easy assembly. Currently, the incubator is tested only using acrylic however significant performance improvement can be achieved if Styrofoam is used instead. The latest version of the design files is available here: http://a360.co/2z1mDeq
-![components](https://github.com/Sammy93/incubator/blob/master/components.png)
+![components](components.png)
+SVG layout
+![components](incubator_inkscape.svg)
 The figure above shows the main body components of the portable incubator. The first three components on the left have to be lasercut twice, the fan/heater holder and heater guard once, and the rails 6 times (4 times for the inside of the incubator to create glass slide holders and 2 times for the bottom of the incubator to create legs for thermal). 
 The prototypes of the incubators were lasercut with 3 mm acrylic, the parameters for the laser cutting depend on the machine you are using but you want to use the lowest power/speed settings to ensure a good fit between the components. Once you have cut the different parts, they can be assembled and glued with superglue. You can buy an off-the-shelf acrylic glue but superglue works just as fine and you can get 8 tubes for £1 from Poundland. 
 # Electronics
-![electronic_components]( https://github.com/BioMakers/41_Low_cost_laser_cut_incubator_for_microbiology/blob/master/electronics.png)
+![electronic_components](electronics.png)
 
 In order to keep the project accessible to everyone, the electronics were kept to a bare minimum and only a pair of wire strippers and a screwdriver are needed (no soldering required). There are 6 main components which are shown on the figure below. The cheapest place to buy these components is from eBay or Aliexpress and the total cost comes down to approximately £30 including a mains power supply/charger and portable battery pack. 
 
